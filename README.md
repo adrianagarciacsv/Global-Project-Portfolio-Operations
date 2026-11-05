@@ -62,3 +62,20 @@ This is an independent portfolio demonstration using fictional company informati
 Strategic Operations | Executive Orchestration | Project & Delivery Management
 
 This project reflects practical approaches to operational visibility, project coordination, and executive reporting.
+
+## Project Documentation & Deliverables
+
+Explore the project's documentation and supporting materials:
+
+- [Project Overview & Methodology](PROJECT_OVERVIEW.md)
+- [Executive Project Portfolio Tracker](Executive_Project_Portfolio_Tracker.xlsx)
+
+### Portfolio Features
+
+- Executive performance dashboard
+- Global project portfolio tracking
+- Risk and mitigation register
+- Weekly executive reporting
+- KPI definitions and performance monitoring
+
+All project data is fictional and illustrative.
